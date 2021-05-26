@@ -1,0 +1,23 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelusov79/node_course.git"
+  },
+  "author": "Usov P.P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelusov79/node_course/issues"
+  },
+  "homepage": "https://github.com/pavelusov79/node_course#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "prompt": "^1.1.0"
+  }
+}
