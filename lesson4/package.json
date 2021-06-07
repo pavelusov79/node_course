@@ -1,0 +1,19 @@
+{
+  "name": "lesson4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "4.2.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Usov P.P.",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.1.0",
+    "path": "^0.12.7"
+  }
+}
